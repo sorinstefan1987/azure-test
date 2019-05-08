@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3\WindowsFormsApp3.csproj", "{921FC400-2E44-497E-B754-8CCDE872CFE6}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Project1", "AI Setup Project1\AI Setup Project1.aiproj", "{8B7E2783-44CD-4C94-ADC9-CB91324C2505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921FC400-2E44-497E-B754-8CCDE872CFE6}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{921FC400-2E44-497E-B754-8CCDE872CFE6}.All|Any CPU.Build.0 = Release|Any CPU
+		{921FC400-2E44-497E-B754-8CCDE872CFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921FC400-2E44-497E-B754-8CCDE872CFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921FC400-2E44-497E-B754-8CCDE872CFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921FC400-2E44-497E-B754-8CCDE872CFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7E2783-44CD-4C94-ADC9-CB91324C2505}.All|Any CPU.ActiveCfg = DefaultBuild
+		{8B7E2783-44CD-4C94-ADC9-CB91324C2505}.All|Any CPU.Build.0 = DefaultBuild
+		{8B7E2783-44CD-4C94-ADC9-CB91324C2505}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{8B7E2783-44CD-4C94-ADC9-CB91324C2505}.Debug|Any CPU.Build.0 = DefaultBuild
+		{8B7E2783-44CD-4C94-ADC9-CB91324C2505}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{8B7E2783-44CD-4C94-ADC9-CB91324C2505}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE28FDC-1F3B-45B7-9928-131375CA322D}
+	EndGlobalSection
+EndGlobal
